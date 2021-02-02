@@ -1,1 +1,1 @@
-conflict scenario
+test readme file
