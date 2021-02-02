@@ -5,5 +5,9 @@ update the readme file in trouble branch
 modilfy readme file in trouble branch again
 
 test
+<<<<<<< HEAD
 modify trouble branch--12312
 main branch
+=======
+modify trouble branch
+>>>>>>> trouble
